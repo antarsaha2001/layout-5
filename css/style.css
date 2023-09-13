@@ -1,0 +1,52 @@
+
+header{
+    background-color: blueviolet;
+    text-align: center;
+    height: 80px;
+    font-size: 50px;
+
+}
+.main{
+    display: flex;
+    width: 100%;
+}
+.laft{
+    background-color: rgb(38, 255, 0);
+    text-align: center;
+    height: 500px;
+    width: 60%;
+}
+.right{
+    background-color: rgb(34, 0, 255);
+    text-align: center;
+    height: 500px;
+    width: 40%;
+}
+.laft_up{
+    background-color: aquamarine;
+    height: 40%;
+    display: flex;
+}
+.laft_dawn{
+    background-color: brown;
+    height: 60%;
+}
+.up_1{
+    background-color: bisque;
+    width: 33%;
+}
+.up_2{
+    background-color: rgb(167, 100, 18);
+    width: 33%;
+}
+.up_3{
+    background-color: rgb(255, 255, 255);
+    width: 34%;
+}
+footer{
+    background-color: chartreuse;
+    text-align: center;
+    font-size: 30px;
+    height: 50px;
+
+}
